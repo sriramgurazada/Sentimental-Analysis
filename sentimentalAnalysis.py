@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # CSCI 544 Assignment1
-# 
-
-# ### ID.NO: 5989499046
-# ### Name: Devi Venkata Sai Sriram Chandra Gurazada
-
-# In[1]:
-
 
 import pandas as pd
 import numpy as np
